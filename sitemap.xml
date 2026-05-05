@@ -40,6 +40,9 @@
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/discuss.html</loc>
   </url>
   <url>
@@ -50,6 +53,9 @@
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/further-reading.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/index.html</loc>
@@ -94,6 +100,9 @@
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/discuss.html</loc>
   </url>
   <url>
@@ -103,7 +112,16 @@
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/further-reading.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/prereqs.html</loc>
@@ -113,6 +131,12 @@
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/bioimage-analysis-python/prereqs.html</loc>
